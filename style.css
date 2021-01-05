@@ -44,8 +44,31 @@ body{
 }
 .bottom-area{
     text-align: center;
+    background-color: #f2fbfb;
+    margin-top: 0px;
 }
 .loading{
-    font-weight: 500;
     color: rgb(46, 46, 46);
+    font-size: 20px;
+    letter-spacing: 20px;
+}
+#num{
+    color: rgb(77, 77, 77);
+    font-weight: 600;
+    font-size: 50px;
+}
+#contact-me{
+    color: rgb(77, 77, 77);
+    font-weight: 300;
+    font-size: 14px;
+    width: 33.33%;
+    margin-left: 33.33%;
+    text-align: center;
+}
+#site h3{
+    letter-spacing: 5px;
+    margin-top: 20px;
+    display: inline-block;
+    padding-left: 20px;
+    font-size: 15px;
 }
