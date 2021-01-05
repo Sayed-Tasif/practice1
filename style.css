@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Roboto', sans-serif;
+}
+.top-area{
+    background-image: url("images/dot.png");
+    background-repeat: no-repeat;
+    background-position:top;
+    height: 250px;
+}
+.logo{
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.top-text h1{
+    font-family: 'Lobster', cursive;
+    font-size: 140px;
+    margin-bottom: 0px;
+    margin-top: 60px;
+}
+.top-text p{
+    color: rgb(110, 110, 110);
+    font-weight: 500;
+}
+.top-text{
+    width: 30%;
+    padding-left: 40px;
+}
+
+.image-area{
+    text-align: center;
+    margin-top: 200px;
+    padding: 0px;
+}
+
+
+
+
+
+.highlight{
+    color:orange;
+    text-decoration: none;
+}
+.bottom-area{
+    text-align: center;
+}
+.loading{
+    font-weight: 500;
+    color: rgb(46, 46, 46);
+}
